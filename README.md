@@ -1,6 +1,8 @@
 # collaborative-register-local-authorities-england
 This is a collaborative register for local authorities in England
 
+This register should not be seen as authoritiative and is not endorsed by the UK Governnment.
+
 It is based on [the authoritative register](https://www.registers.service.gov.uk/registers/local-authority-eng) published by the [UK Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) and maintained by the [Ministry for Housing, Communities and Local Government](https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government).
 
 There are 7 fields in this register
